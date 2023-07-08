@@ -1,9 +1,6 @@
 # Move Zeros
 
-- "Given an array A[] of size N containing non-negative integers. You have to move all 0's to the end of array while maintaining the relative order of the non-zero elements.
-  Note:
-  You must do this in-place without making a copy of the array.
-  Minimize the total number of operations."
+# "Given an array A[] of size N containing non-negative integers. You have to move all 0's to the end of array while maintaining the relative order of the non-zero elements. Note: You must do this in-place without making a copy of the array. Minimize the total number of operations."
 
 Example 1:
 
