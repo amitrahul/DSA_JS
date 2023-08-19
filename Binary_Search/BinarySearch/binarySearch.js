@@ -40,3 +40,8 @@ const binarySearch1 = (arr, target) => {
   }
   return -1;
 };
+
+/* Know the order of array ,is it ascending or descending order
+ * if arr[0] > arr [1] then array is descending order
+ * if arr[0] < arr[1] then array is ascending order
+ */
